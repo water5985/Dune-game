@@ -1,0 +1,39 @@
+Controls
+W / A / S / D — Move your character
+
+F — Use your currently equipped item (attack with weapons or heal with consumables)
+
+E — Interact with the merchant (buy or sell items)
+
+P — Pick up items in your current location
+
+Arrow Up / Arrow Down — Move forward or backward between dungeon locations
+
+Actions are real-time, and smart use of movement and timing is key to surviving.
+
+How to Win
+To win the game, you must defeat all enemies in the last location of the dungeon. Progress through each area and prepare for a final fight.
+
+How You Can Lose
+You lose the game if your health drops below 0. Use healing items wisely and avoid reckless fighting.
+
+Enemy Types (by Color)
+Red Enemies
+Stand still and only attack once every 5 seconds if you come close.
+
+Purple Enemies
+Chase you directly and attack with melee. They are fast and aggressive.
+
+Pink Enemies
+Run away from you and attack from a distance. Their attacks are stronger than others.
+
+Game Interface (Top of the Screen)
+At the top of the screen, you’ll see:
+
+Health Points — Your current health
+
+Coins — Your gold amount
+
+Inventory — The items you are carrying
+
+Output Messages — Game events and interactions are displayed here
