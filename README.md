@@ -61,19 +61,6 @@ git clone https://github.com/yourusername/your-repository-name.git
 cd your-repository-name
 ```
 
-Compile and run using Java:
+Compile and run using Java
 
-```
-javac src/*.java
-java Main
-```
 
-(Adjust depending on the actual project structure.)
-
-## Project Structure
-
-```
-src/        Java source files
-assets/     game graphics / resources
-docs/       documentation
-```
